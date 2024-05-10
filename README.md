@@ -1,5 +1,3 @@
 ### Hi, I am Alejandro 👋
 
-I am a Full-Stack JavaScript developer who loves the back-end as much as the front-end. My aim is to build simple and elegant sites with no distractions, so users can focus on what it is most relevant.
-
-You can find my portfolio here: [Visit my portfolio](https://portfolio-aburto22.vercel.app/)
+I am a Fullstack JavaScript developer currently working on a car-subscription company. I am a curious person that is interested not only in code, but also in understanding the business domain they are built in. I prefer code when it is readable, testable and maintenable, above everything else.
