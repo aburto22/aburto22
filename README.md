@@ -1,4 +1,9 @@
-### Hi, I am Alejandro 👋
+## Hi, I am Alejandro 👋
 
-I am a Full Stack JavaScript / TypeScript developer. Lately, I have been using React, Next.js, Ember.js and Enhance for the front-end, Tailwind for the css, Node.js Microservices for the back-end, Architect for IaC, GitHub to store my code, GitHub Actions to create my CI / CD pipeline, AWS to deploy my code and Notion to manage my projects.
+I am always looking to learn and to code to help companies achieve their goals through technology and automation.
 
+- I focus mostly on Typescript and Javascript.
+- I tend to prefer working on the backend than the frontend, but can do both.
+- I am into cloud development, mostly AWS.
+
+[![Alejandro's GitHub stats](https://github-readme-stats-eight-pink-60.vercel.app/api?username=aburto22&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
